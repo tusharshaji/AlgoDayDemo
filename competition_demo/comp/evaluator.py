@@ -1,9 +1,4 @@
 """
-PUBLIC. The evaluator.
-
-This is the organiser's scoring engine. Local and organiser runs match when
-given the same data and deterministic strategy.
-
 Usage
 -----
     python -m comp.evaluator strategies/baseline_reversal.py
